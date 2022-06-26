@@ -1,0 +1,14 @@
+.tool-bar {
+    margin: 70px auto;
+    padding: 70px;
+    border-top: 1px solid #dadada;
+    width: auto;
+}
+
+button {
+    padding: 10px 20px;
+    border: transparent 1px solid;
+    border-radius: 4px;
+    background-color: #00aaee;
+    color: white;
+}
